@@ -1,0 +1,35 @@
+.filter{
+    width: 25vw;
+    height: 150vh;
+    background-color: grey;
+    margin-top: 15%;
+    border-radius: 6px;
+    float: left;
+
+}
+.filter h1{
+    font-size: 40px;
+    margin-left: 10%;
+}
+.filter p{
+    margin-top: 5%;
+    margin-left: 10%;
+    font-size: 30px;
+}
+.filter>button{
+    padding: 10px;
+    margin-top: 5%;
+    margin-left: 15%;
+    border-radius: 10px;
+    background-color:#a38dfd;
+    color: white;
+    border-color: white;
+}
+.filter ol{
+    margin-left: 10%;
+    margin-top: 15%;
+    font-size: 30px;
+}
+
+
+

@@ -1,0 +1,68 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.Nav{
+    background-color: #212529;
+    width: 100vw;
+    height: 15vh;
+    position: sticky;
+    top: 0%;
+}
+.active{
+    color: chartreuse;
+    text-decoration: none;
+}
+.storepic img{
+    width: 70px;
+    height: 70px;
+    margin-top: -53px;
+    margin-left: 25px;
+}
+.storepic h1{
+    color:white;
+    position: relative;
+    left: 8%;
+    margin-top:-4%;
+    font-style: oblique;
+    font-family: 'Comfortaa', sans-serif;
+}
+.headss{
+    display: flex;
+    margin-left: 40%;
+    justify-content: space-around;
+    font-size: 30px;
+    /* margin-top: 1%; */
+    width: 50vw;
+
+    
+  }
+/* .Nav.headss.item1 #Link{
+    text-decoration: none;
+    color: white;
+} */
+.headss>div{
+    margin-top: 25px;
+    color: white;
+    text-decoration: none;
+}
+/* .Nav.headss>div.item Link{
+    color: white;
+    text-decoration: none;
+} */
+.headss .item1 Link {
+    text-decoration: none;
+}
+.mid img{
+    width: 100vw;
+    height: 80vh;
+}
+.shop{
+    margin-top: 2%;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Comfortaa', sans-serif;
+}
+

@@ -1,0 +1,137 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.cab img{
+    width: 100vw;
+    height: 80vh;
+}
+.block{
+    margin-left: 10%;
+    margin-top: -30%;
+}
+.block h6{
+    font-size: 20px;
+    
+}
+.block h1{
+    color: #6bc5b2;
+    font-size: 70px;
+    font-style: normal;
+}
+.block button{
+    padding: 10px;
+    background-color: #6bc5b2;
+    border-radius: 5px;
+    border-color: #6bc5b2;
+    margin-top: 3%;
+}
+.main h5{
+    text-align: center;
+    margin-top: 10%;
+    font-size: 30px;
+}
+.gro{
+    margin-top: 5%;
+    width: 100vw;
+    height: 55vh;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.gro img{
+    width: 337.5px;
+    height: 200px;
+    transition: 1s;
+
+}
+.gro img:hover{
+    transform: scale(1.1);
+}
+.gro p{
+    font-size: 30px;
+    margin-top: 2%;
+    text-align: center;
+}
+.gro h2{
+    margin-top: 1%;
+    text-align: center;
+}
+.gro button{
+    margin-top: 5%;
+    margin-left: 25%;
+    padding: 10px;
+    font-size: 20px;
+    width: 50%;
+    background-color: #6bc5b2;
+    border-radius: 20px;
+    color: white;
+}
+.cap img{
+    width: 80vw;
+    height: 60vh;
+    margin-top: 70%;
+    margin-left: 10%;
+}
+.block1{
+    margin-left: 15%;
+    margin-top: -20%;
+}
+.block1 p{
+    font-size: 20px;
+    color: white;
+    
+}
+.block1 h1{
+    color:white;
+    font-size: 50px;
+    font-style: normal;
+}
+.block1 button{
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 3%;
+    border-color: white;
+}
+.part1 img{
+    margin-left: 10%;
+    margin-top: 15%;
+    float: left;
+}
+.Grocerysub1{
+    margin-top: 15%;
+    width: 20vw;
+    float: right;
+    height: 45vh;
+    border: 1px solid grey;
+}
+
+.Grocerysub1 img{
+    width: 150px;
+    height:150px;
+    margin-left: 17%;
+}
+.Grocerysub1 p{
+    font-size: 20px;
+    text-align: center;
+}
+.Grocerysub1 h4{
+    margin-top: 3%;
+    text-align: center;
+
+}
+.Grocerysub1 button{
+    margin-top: 2%;
+    padding: 5px;
+    font-size: 15px;
+    width: 30%;
+    background-color: #6bc5b2;
+    color: white;
+    border-color: #6bc5b2 ;
+    border-radius: 3px;
+    margin-left: 35%;
+}
+
+
